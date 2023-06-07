@@ -1,5 +1,6 @@
 
 # Project: Customer segmentation analysis
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 We did this project as part of an AI and data developer's training at french [Simplon](https://simplon.co/) school.
 
