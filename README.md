@@ -57,6 +57,6 @@ _Good luck!_
 
 ## Authors
 
-- [@ForskyOnly](https://github.com/Slemdev)
+- [@ForskyOnly](https://github.com/ForskyOnly)
 - [@neevaiti](https://github.com/neevaiti)
 - [@MaximeR12](https://github.com/MaximeR12)
